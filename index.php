@@ -1,6 +1,5 @@
 <?php
 
-echo exit;
 include "header.php";
 
 include "body.php";
